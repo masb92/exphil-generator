@@ -1,0 +1,5 @@
+#!/usr/bin/env coffee
+
+program = require("commander")
+
+process.stdout.write("Hello World\n")
